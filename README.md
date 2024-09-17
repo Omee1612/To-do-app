@@ -1,0 +1,1 @@
+I made this app to learn the basics of JavaScript callbacks & selectors, also on how to write and read from local storage. The UI is pretty basic and kind of ugly(I might improve on it later) but it gets the job done pretty well.
